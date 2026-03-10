@@ -22,6 +22,7 @@ int main(void) {
         printf("\n1. Cargar archivo\n2. Mostrar analisis\n3. Exportar datos "
                "calibrados\n4. Salir\nSeleccione una opcion:\t");
         scanf("%c", &opc);
+        scanf("%*c"); // Limpiar el buffer de entrada
         switch (opc) {
         case '1':
             cargar();
@@ -60,6 +61,7 @@ void cargar() {
     printf("Ingrese el nombre del archivo a cargar:\t");
     char nombre[100];
     scanf("%s", nombre);
+    scanf("%*c"); // Limpiar el buffer de entrada
     int num_datos = cargar_datos(nombre, datos, 100);
     if (num_datos < 1) {
         printf("El archivo esta vacio. Cargue otro\n");
