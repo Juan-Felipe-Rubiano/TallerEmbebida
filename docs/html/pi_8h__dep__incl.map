@@ -1,0 +1,5 @@
+<map id="include/pi.h" name="include/pi.h">
+<area shape="rect" id="node1" title="Interfaz del ejercicio de cifras de pi con formula." alt="" coords="43,5,140,32"/>
+<area shape="rect" id="node2" href="$pi_8c.html" title="Implementacion del ejercicio de cifras de pi." alt="" coords="5,80,73,107"/>
+<area shape="rect" id="node3" href="$tests_8c.html" title="archivo con las pruebas sugeridas para los ejercicios" alt="" coords="97,80,192,107"/>
+</map>

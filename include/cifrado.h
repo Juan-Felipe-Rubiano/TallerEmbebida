@@ -1,3 +1,8 @@
+/**
+ * @file cifrado.h
+ * @brief Interfaz del ejercicio de cifrado cesar
+ */
+
 #pragma once
 
 /**

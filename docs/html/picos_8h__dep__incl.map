@@ -1,0 +1,5 @@
+<map id="include/picos.h" name="include/picos.h">
+<area shape="rect" id="node1" title="Interfaz del ejercicio de picos en matriz." alt="" coords="50,5,169,32"/>
+<area shape="rect" id="node2" href="$picos_8c.html" title="Implementacion del ejercicio de picos en una matriz." alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node3" href="$tests_8c.html" title="archivo con las pruebas sugeridas para los ejercicios" alt="" coords="121,80,215,107"/>
+</map>

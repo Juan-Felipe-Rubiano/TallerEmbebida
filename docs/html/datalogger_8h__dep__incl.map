@@ -1,0 +1,6 @@
+<map id="include/datalogger.h" name="include/datalogger.h">
+<area shape="rect" id="node1" title="Interfaz del ejercicio de cargar datos." alt="" coords="123,5,277,32"/>
+<area shape="rect" id="node2" href="$datalogger_8c.html" title="Implementacion del ejercicio de datalogger." alt="" coords="5,80,131,107"/>
+<area shape="rect" id="node3" href="$main_8c.html" title="Implementacion del ultimo ejercicio que agrupa varias funcionalidades." alt="" coords="155,80,245,107"/>
+<area shape="rect" id="node4" href="$tests_8c.html" title="archivo con las pruebas sugeridas para los ejercicios" alt="" coords="269,80,363,107"/>
+</map>

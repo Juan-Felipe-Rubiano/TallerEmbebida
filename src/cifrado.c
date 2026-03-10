@@ -1,6 +1,11 @@
+/**
+ * @file cifrado.c
+ * @brief Implementacion del ejercicio de cifrado cesar
+ */
 #include "cifrado.h"
 
-void cifrar_cadena(char *texto, int desplazamiento) {
+    void
+    cifrar_cadena(char *texto, int desplazamiento) {
     int i = 0;
     while (texto[i] != '\0') {
         char c = texto[i];
