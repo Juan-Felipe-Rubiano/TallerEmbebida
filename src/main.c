@@ -77,6 +77,7 @@ void exportar() {
     while (offset <= 0) {
         printf("Ingrese el offset mayor a 0 para la calibracion:\t");
         scanf("%f", &offset);
+        scanf("%*c"); // Limpiar el buffer de entrada
     }
     exportar_corregido("sensores_calibrados.txt", datos, cant_datos, offset);
 }
